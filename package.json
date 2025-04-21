@@ -1,0 +1,24 @@
+{
+  "name": "diplom",
+  "version": "1.0.0",
+  "description": "Цель дипломного проекта - продемонстрировать навыки автоматизатора, полученные в рамках курса. Проект состоит из 5 блоков-навыков.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladSoldatkin/Diplom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VladSoldatkin/Diplom/issues"
+  },
+  "homepage": "https://github.com/VladSoldatkin/Diplom#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1"
+  }
+}
